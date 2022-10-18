@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engineer from the future
+title: Engineer from the Future
 date: 2022-10-18 14:11 +0000
 tags: [getting started, first blog post]
 pin: true
